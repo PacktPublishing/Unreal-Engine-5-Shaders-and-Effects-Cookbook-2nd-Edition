@@ -2,7 +2,7 @@
 
 <a href="https://www.packtpub.com/en-us/product/unreal-engine-5-shaders-and-effects-cookbook-9781837633081"><img src="https://content.packt.com/B19370/cover_image_small.jpg" alt="" height="256px" align="right"></a>
 
-**Note** The large code files would be available here: https://packt.link/gbz/9781837633081
+**Note:** The large code files would be available here: https://packt.link/gbz/9781837633081
 
 This is the code repository for [Unreal Engine 5 Shaders and Effects Cookbook](https://www.packtpub.com/en-us/product/unreal-engine-5-shaders-and-effects-cookbook-9781837633081), published by Packt.
 
